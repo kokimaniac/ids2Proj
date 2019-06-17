@@ -1,0 +1,9 @@
+.imgContainer {
+    text-align: center;
+    margin-top: 50px;
+}
+#img-signature {
+    width: 400px;
+    box-shadow: 5px 10px 5px gray;
+    cursor: pointer;
+}
